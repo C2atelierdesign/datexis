@@ -506,6 +506,59 @@ video {
     margin-top: -400px;
 }
 
+#data-visu{
+    margin: -300px 0 140px 0;
+}
+
+#data-visu img{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.data-title{
+    text-transform: uppercase;
+    color: #2CD18A;
+    font-family: 'Unica One', sans-serif;
+    font-weight: 100;
+    font-size: 1.3em;
+}
+
+.data-number{
+    color: #2CD18A;
+    font-family: 'Unica One', sans-serif;
+    font-weight: 700;
+    font-size: 2.2em;
+}
+
+.card-data{
+    display: flex;
+    flex-direction: column;
+}
+
+.anim-data{
+    position: relative;
+}
+.routage{
+    left: 4%;
+    top: 360px;
+}
+
+.traitement{
+    right: 28%;
+    top: 450px;
+}
+
+.reactivation{
+    right: 15%;
+    top: 540px;
+}
+
+.generation{
+    left: 20%;
+    top: 190px;
+}
+
 /* ========================================= CLIENTS ========================================= */
 
 .intro_black {
