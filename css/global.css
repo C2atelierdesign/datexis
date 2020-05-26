@@ -511,6 +511,7 @@ video {
 }
 
 #data-visu img{
+    width: 38%;
     position: relative;
     left: 50%;
     transform: translateX(-50%);
